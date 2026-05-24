@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=Polybar
+Exec=/home/rin/.config/polybar/launch.sh
